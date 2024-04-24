@@ -5,7 +5,7 @@ import schedule
 from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Substitua 'YOUR_BOT_TOKEN' pelo seu token
-TOKEN = '6640916825:AAGnzwy_-8RL7xHEYW--IGQHc8KNsO8rGFQ'
+TOKEN = ''
 
 # Dicionário para armazenar o estado do usuário
 user_state = {}
